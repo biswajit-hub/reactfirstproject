@@ -28,7 +28,6 @@ function App() {
 
   const [btnValue, setBtnValue] = useState("Enable Dark Mode");
   // const togleMode = ()=>{
-
   // }
   const enableDarkMode = () => {
     if (mode === "success") {
